@@ -6,9 +6,9 @@
 - [x ] The Artist
 
 ## Weapons
-- [ ] Heavy Book
+- [x ] Heavy Book
 - [ ] Glass Bottle
-- [ ] Brass Bell
+- [ x] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
