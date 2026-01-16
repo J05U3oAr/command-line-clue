@@ -13,4 +13,7 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Por eliminación:
+- Sospechoso: The Banker (único no encontrado)
+- Arma: Glass Bottle (única no encontrada)
+- Lugar: gymnasium
