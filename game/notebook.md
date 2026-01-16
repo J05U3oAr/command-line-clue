@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Postman
 - [ ] The Banker
-- [ ] The Artist
+- [x ] The Artist
 
 ## Weapons
 - [ ] Heavy Book
